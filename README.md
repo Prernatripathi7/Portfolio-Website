@@ -1,12 +1,12 @@
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
 A modern, responsive personal portfolio website built with React and TailwindCSS. Features smooth animations, dark/light mode, a filterable skills section, project showcase, and a fully functional contact form powered by EmailJS — no backend required.
 
-🚀 **Live Demo:** [portfolio-website-1yzk.vercel.app](https://portfolio-website-1yzk.vercel.app)
+**Live Demo:** [portfolio-website-1yzk.vercel.app](https://portfolio-website-1yzk.vercel.app)
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -20,38 +20,21 @@ A modern, responsive personal portfolio website built with React and TailwindCSS
 
 ---
 
-## ✨ Features
+## Features
 
-- 🌑 **Dark / Light Mode** — Toggle between themes with smooth transitions
-- 💫 **Animated UI** — Stars, meteors, scroll effects, and glowing elements
-- 📱 **Fully Responsive** — Works seamlessly on desktop and mobile
-- 🧭 **Glassmorphism Navigation** — Desktop and mobile menus with modern styling
-- 👩‍💻 **Hero & About Sections** — Personal introduction with smooth animations
-- 📊 **Filterable Skills Grid** — Skills organized by category with animated progress bars
-- 🖼️ **Projects Showcase** — Project cards with tech stack, GitHub links, and live demos
-- 📩 **Contact Form with EmailJS** — Send messages directly to inbox without any backend server
-- 🚀 **Deployed on Vercel** — Live and accessible via a custom subdomain
-
----
-
-## 📁 Project Structure
-
-```
-Portfolio-Website/
-├── public/
-├── src/
-│   ├── components/
-│   ├── assets/
-│   └── App.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-└── tailwind.config.js
-```
+- **Dark / Light Mode** — Toggle between themes with smooth transitions
+- **Animated UI** — Stars, meteors, scroll effects, and glowing elements
+- **Fully Responsive** — Works seamlessly on desktop and mobile
+- **Glassmorphism Navigation** — Desktop and mobile menus with modern styling
+- **Hero & About Sections** — Personal introduction with smooth animations
+- **Filterable Skills Grid** — Skills organized by category with animated progress bars
+- **Projects Showcase** — Project cards with tech stack, GitHub links, and live demos
+- **Contact Form with EmailJS** — Send messages directly to inbox without any backend server
+- **Deployed on Vercel** — Live and accessible via a custom subdomain
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -71,7 +54,7 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📧 EmailJS Setup
+## EmailJS Setup
 
 This project uses [EmailJS](https://www.emailjs.com/) to handle contact form submissions directly from the frontend.
 
@@ -90,7 +73,7 @@ emailjs.sendForm(
 
 ---
 
-## ☁️ Deployment
+## Deployment
 
 This site is deployed on **Vercel**.
 
@@ -103,7 +86,7 @@ Live at: `https://portfolio-website-1yzk.vercel.app`
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out via the contact form on the website or connect on:
 
